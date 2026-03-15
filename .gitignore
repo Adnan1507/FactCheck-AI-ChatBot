@@ -20,6 +20,7 @@ backend/.venv/
 # ── Environment / Secrets ─────────────────────────────────────
 .env
 .env.*
+!.env.example
 *.env
 secrets.toml
 
