@@ -1,0 +1,377 @@
+{
+  "id": "f7518826-3334-46fe-ac8b-83240ef0c571",
+  "title": "Drinking bleach cures COVID-19",
+  "updated_at": "2026-03-16T01:45:52.391434",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Drinking bleach cures COVID-19"
+    },
+    {
+      "role": "assistant",
+      "verdict": "FAKE",
+      "confidence": "HIGH",
+      "full_response": "VERDICT: FAKE\n\nEXPLANATION:\n- The evidence gathered confirms that drinking bleach does not cure COVID-19 and is extremely dangerous. \n- Multiple credible sources, including the World Health Organization (WHO), the Centers for Disease Control and Prevention (CDC), and reputable health websites such as Healthline, explicitly state that drinking bleach does not cure or prevent COVID-19 and can lead to severe harm, disability, and death due to its poisonous nature.\n- The internet search results and Google grounding also confirm that drinking bleach does not cure COVID-19 and is extremely dangerous. \n- The sources cited, including PMC, MedRxiv, CIDRAP, and Healthline, provide evidence that drinking bleach is not a treatment for COVID-19 and can cause severe health issues and death.\n- The fact that a non-trivial percentage of people reported ingesting cleaning products, including diluted bleach, during the pandemic, as reported in the MedRxiv study, further confirms that drinking bleach is not a recommended treatment for COVID-19.\n\nCONFIDENCE: HIGH\n\nSOURCES USED:\n- World Health Organization (WHO)\n- Centers for Disease Control and Prevention (CDC)\n- Healthline\n- PMC (https://pmc.ncbi.nlm.nih.gov/articles/PMC10321604/)\n- MedRxiv (https://www.medrxiv.org/content/10.1101/2020.12.11.20246694v3.full-text)\n- CIDRAP (https://www.cidrap.umn.edu/covid-19/report-no-evidence-bleach-consumed-cure-covid-19-during-pandemic)\n- Healthline (https://www.healthline.com/health/drinking-bleach)\n- Public Health Post (https://publichealthpost.org/health-equity/dont-drink-the-bleach-understanding-conspiracy-theories-and-misinformation/)",
+      "sources": [
+        {
+          "title": "Did people really drink bleach to prevent COVID-19? A guide ... - PMC",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10321604/",
+          "content": ". This use of industrial bleach for medical purposes precedes COVID-19 by decades . [...] practices included drinking or gargling household cleaning products (4%), drinking or gargling soapy water (4%), or drinking or gargling diluted bleach (4%) in order to prevent a COVID-19 infection. [...] over 95% of attentive respondents answer in the expected way."
+        },
+        {
+          "title": "Did people really drink bleach to prevent COVID-19? A tale ...",
+          "url": "https://www.medrxiv.org/content/10.1101/2020.12.11.20246694v3.full-text",
+          "content": "alarming, a non-trivial percentage of people who ingested cleaning products, including 4% who reported drinking or gargling diluted bleach, 4% who reported drinking or gargling soapy water, and 4% who reported drinking or gargling a household disinfectant. Translating these percentages into population figures, these results imply that approximately ten million American adults were ingesting bleach, and twenty million American adults were ingesting at least one cleaning product. [...] the uninten"
+        },
+        {
+          "title": "No evidence bleach consumed to cure COVID-19 during pandemic",
+          "url": "https://www.cidrap.umn.edu/covid-19/report-no-evidence-bleach-consumed-cure-covid-19-during-pandemic",
+          "content": "Home\n\n## Main navigation\n\n## \n\n# Report: No evidence bleach consumed to cure COVID-19 during pandemic\n\nA new report dispels accounts that Americans drank bleach to cure or prevent COVID-19, a practice even the Centers for Disease Control and Prevention (CDC) warned against during the early months of the pandemic. The report was published yesterday in PLOS One.\n\nOld-fashioned bleach bottles [...] \"Across two studies with nearly 1,300 respondents, we replicated the CDC's findings showing that arou"
+        },
+        {
+          "title": "The Major Harmful Side Effects of Drinking Bleach",
+          "url": "https://www.healthline.com/health/drinking-bleach",
+          "content": "Here are some things that are known to lower your chances of contracting and transmitting the coronavirus:\n\n## What to do if you think you have COVID-19\n\nIf you have a dry cough, fever, or other symptoms of COVID-19, assume you have it. That’s the best way to avoid spreading it to others. Then:\n\nSigns that you need immediate medical treatment include:\n\nCall 911, but be sure to tell the dispatcher that you suspect you have COVID-19. Arrangements will be made to get the care you need without endan"
+        },
+        {
+          "title": "Don't Drink the Bleach: Understanding Conspiracy ...",
+          "url": "https://publichealthpost.org/health-equity/dont-drink-the-bleach-understanding-conspiracy-theories-and-misinformation/",
+          "content": "Fellow   Adna Jaganjac\n\n Symbol of the misinformation available on the internet about the coronavirus pandemic\n\nRead Time: 3 minutes\n\nPublished:\n\n \n\nWhat is strangest or most dangerous piece of misinformation you’ve encountered on social media? Here’s one: the claim that drinking bleach cures COVID-19.\n\nThis misinformation actually originated from conspiracy theories about the pandemic. QAnon supporters were the ones who originally pushed the idea that bleach was a treatment for COVID-19, one of"
+        }
+      ],
+      "langsmith_url": null
+    },
+    {
+      "role": "user",
+      "content": "Drinking bleach cures COVID-19"
+    },
+    {
+      "role": "assistant",
+      "verdict": "FAKE",
+      "confidence": "HIGH",
+      "full_response": "VERDICT: FAKE\n\nEXPLANATION:\n- The evidence gathered confirms that drinking bleach does not cure COVID-19 and is extremely dangerous. \n- Multiple credible sources, including the World Health Organization (WHO), the Centers for Disease Control and Prevention (CDC), and reputable health websites such as Healthline, explicitly state that drinking bleach does not cure or prevent COVID-19 and can lead to severe harm, disability, and death due to its poisonous nature.\n- The sources provided include:\n  - \"Report: No evidence bleach consumed to cure COVID-19 during pandemic\" (https://www.cidrap.umn.edu/covid-19/report-no-evidence-bleach-consumed-cure-covid-19-during-pandemic)\n  - \"Drinking Bleach Is No Cure for Coronavirus and Poses Serious Risks\" (https://www.healthline.com/health/drinking-bleach)\n  - \"Coronavirus disease (COVID-19) advice for the public: Mythbusters\" (https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters)\n  - \"Did people really drink bleach to prevent COVID-19? A guide ... - PMC\" (https://pmc.ncbi.nlm.nih.gov/articles/PMC10321604/)\n  - \"Amid COVID-19 Concerns, Texas Panhandle Poison Center Warns: Don’t Drink Your Bleach\" (https://dailydose.ttuhsc.edu/2020/march/dont-drink-bleach.aspx)\n- These sources consistently state that drinking bleach is not a cure for COVID-19 and can cause severe harm, disability, and death.\n\nCONFIDENCE: HIGH\n\nSOURCES USED:\n- \"Report: No evidence bleach consumed to cure COVID-19 during pandemic\" (https://www.cidrap.umn.edu/covid-19/report-no-evidence-bleach-consumed-cure-covid-19-during-pandemic)\n- \"Drinking Bleach Is No Cure for Coronavirus and Poses Serious Risks\" (https://www.healthline.com/health/drinking-bleach)\n- \"Coronavirus disease (COVID-19) advice for the public: Mythbusters\" (https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters)\n- \"Did people really drink bleach to prevent COVID-19? A guide ... - PMC\" (https://pmc.ncbi.nlm.nih.gov/articles/PMC10321604/)\n- \"Amid COVID-19 Concerns, Texas Panhandle Poison Center Warns: Don’t Drink Your Bleach\" (https://dailydose.ttuhsc.edu/2020/march/dont-drink-bleach.aspx)",
+      "sources": [
+        {
+          "title": "No evidence bleach consumed to cure COVID-19 during pandemic",
+          "url": "https://www.cidrap.umn.edu/covid-19/report-no-evidence-bleach-consumed-cure-covid-19-during-pandemic",
+          "content": "Home\n\n## Main navigation\n\n## \n\n# Report: No evidence bleach consumed to cure COVID-19 during pandemic\n\nA new report dispels accounts that Americans drank bleach to cure or prevent COVID-19, a practice even the Centers for Disease Control and Prevention (CDC) warned against during the early months of the pandemic. The report was published yesterday in PLOS One.\n\nOld-fashioned bleach bottles [...] Old-fashioned bleach bottles\n\nIn June 2020 the CDC shared results from an online survey that showed 3"
+        },
+        {
+          "title": "Drinking Bleach Is No Cure for Coronavirus and Poses Serious Risks",
+          "url": "https://www.healthline.com/health/drinking-bleach",
+          "content": "There is no evidence that swallowing bleach will help you fight off COVID-19. More importantly, you shouldn’t drink bleach at all, nor should you drink any product that contains bleach or any other disinfectant.\n\nDrinking bleach can lead to serious health consequences. It can be fatal.\n\n## Is bleach poisonous?\n\nIt’s true that you can use bleach to purify drinking water in an urgent situation such as a natural disaster. It’s a process that involves only a tiny amount of bleach and lots of water.\n"
+        },
+        {
+          "title": "Coronavirus disease (COVID-19) advice for the public: Mythbusters",
+          "url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters",
+          "content": "## FACT: Drinking methanol, ethanol or bleach DOES NOT prevent or cure COVID-19 and can be extremely dangerous\n\nMethanol, ethanol, and bleach are poisons. Drinking them can lead to disability and death. Methanol, ethanol, and bleach are sometimes used in cleaning products to kill the virus on surfaces – however you should never drink them. They will not kill the virus in your body and they will harm your internal organs.\n\nTo protect yourself against COVID-19, disinfect objects and surfaces, espe"
+        },
+        {
+          "title": "Did people really drink bleach to prevent COVID-19? A guide ... - PMC",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10321604/",
+          "content": "practices included drinking or gargling household cleaning products (4%), drinking or gargling soapy water (4%), or drinking or gargling diluted bleach (4%) in order to prevent a COVID-19 infection. [...] ### Public health implications\n\nThe reasons for the increase in calls to the CDC poison control centers discussed in the introduction are not known. However, even if some of these cases can be attributed to the intentional ingestion of bleach and disinfectants to prevent a COVID-19 infection, i"
+        },
+        {
+          "title": "Amid COVID-19 Concerns, Texas Panhandle Poison Center Warns",
+          "url": "https://dailydose.ttuhsc.edu/2020/march/dont-drink-bleach.aspx",
+          "content": "1. Daily Dose\n2. 2020\n3. March\n / Amid COVID-19 Concerns, Texas Panhandle Poison Center Warns: Don’t Drink Your Bleach\n\n# Amid COVID-19 Concerns, Texas Panhandle Poison Center Warns: Don’t Drink Your Bleach\n\nExposure to Cleaning Products is a Leading Cause of Poisoning\n\n By Ronica Farrar\n March 18, 2020\n\nPoison Help 1-800-222-1222There is a lot of confusing, incomplete, and just plain inaccurate information circulating about how to prevent the COVID-19 virus (“coronavirus”) from spreading. Some "
+        }
+      ],
+      "langsmith_url": null
+    },
+    {
+      "role": "user",
+      "content": "\nDrinking bleach cures COVID-19"
+    },
+    {
+      "role": "assistant",
+      "verdict": "FAKE",
+      "confidence": "HIGH",
+      "full_response": "VERDICT: FAKE\n\nEXPLANATION:\n- The evidence gathered confirms that drinking bleach does not cure COVID-19 and is extremely dangerous. \n- Multiple credible sources, including the World Health Organization (WHO), the Centers for Disease Control and Prevention (CDC), and reputable health websites such as Healthline, explicitly state that drinking bleach does not cure or prevent COVID-19 and can lead to severe harm, disability, and death due to its poisonous nature.\n- The sources provided include:\n  - https://www.cidrap.umn.edu/covid-19/report-no-evidence-bleach-consumed-cure-covid-19-during-pandemic\n  - https://www.healthline.com/health/drinking-bleach\n  - https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters\n  - https://pmc.ncbi.nlm.nih.gov/articles/PMC10321604/\n  - https://dailydose.ttuhsc.edu/2020/march/dont-drink-bleach.aspx\n- These sources consistently state that drinking bleach is not a cure for COVID-19 and can cause severe harm, disability, and death.\n- The evidence gathered confirms that drinking bleach does not cure COVID-19 and is extremely dangerous.\n\nCONFIDENCE: HIGH\n\nSOURCES USED:\n- https://www.cidrap.umn.edu/covid-19/report-no-evidence-bleach-consumed-cure-covid-19-during-pandemic\n- https://www.healthline.com/health/drinking-bleach\n- https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters\n- https://pmc.ncbi.nlm.nih.gov/articles/PMC10321604/\n- https://dailydose.ttuhsc.edu/2020/march/dont-drink-bleach.aspx",
+      "sources": [
+        {
+          "title": "No evidence bleach consumed to cure COVID-19 during pandemic",
+          "url": "https://www.cidrap.umn.edu/covid-19/report-no-evidence-bleach-consumed-cure-covid-19-during-pandemic",
+          "content": "Home\n\n## Main navigation\n\n## \n\n# Report: No evidence bleach consumed to cure COVID-19 during pandemic\n\nA new report dispels accounts that Americans drank bleach to cure or prevent COVID-19, a practice even the Centers for Disease Control and Prevention (CDC) warned against during the early months of the pandemic. The report was published yesterday in PLOS One.\n\nOld-fashioned bleach bottles [...] Old-fashioned bleach bottles\n\nIn June 2020 the CDC shared results from an online survey that showed 3"
+        },
+        {
+          "title": "Drinking Bleach Is No Cure for Coronavirus and Poses Serious Risks",
+          "url": "https://www.healthline.com/health/drinking-bleach",
+          "content": "There is no evidence that swallowing bleach will help you fight off COVID-19. More importantly, you shouldn’t drink bleach at all, nor should you drink any product that contains bleach or any other disinfectant.\n\nDrinking bleach can lead to serious health consequences. It can be fatal.\n\n## Is bleach poisonous?\n\nIt’s true that you can use bleach to purify drinking water in an urgent situation such as a natural disaster. It’s a process that involves only a tiny amount of bleach and lots of water.\n"
+        },
+        {
+          "title": "Coronavirus disease (COVID-19) advice for the public: Mythbusters",
+          "url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters",
+          "content": "## FACT: Drinking methanol, ethanol or bleach DOES NOT prevent or cure COVID-19 and can be extremely dangerous\n\nMethanol, ethanol, and bleach are poisons. Drinking them can lead to disability and death. Methanol, ethanol, and bleach are sometimes used in cleaning products to kill the virus on surfaces – however you should never drink them. They will not kill the virus in your body and they will harm your internal organs.\n\nTo protect yourself against COVID-19, disinfect objects and surfaces, espe"
+        },
+        {
+          "title": "Did people really drink bleach to prevent COVID-19? A guide ... - PMC",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10321604/",
+          "content": "practices included drinking or gargling household cleaning products (4%), drinking or gargling soapy water (4%), or drinking or gargling diluted bleach (4%) in order to prevent a COVID-19 infection. [...] ### Public health implications\n\nThe reasons for the increase in calls to the CDC poison control centers discussed in the introduction are not known. However, even if some of these cases can be attributed to the intentional ingestion of bleach and disinfectants to prevent a COVID-19 infection, i"
+        },
+        {
+          "title": "Amid COVID-19 Concerns, Texas Panhandle Poison Center Warns",
+          "url": "https://dailydose.ttuhsc.edu/2020/march/dont-drink-bleach.aspx",
+          "content": "1. Daily Dose\n2. 2020\n3. March\n / Amid COVID-19 Concerns, Texas Panhandle Poison Center Warns: Don’t Drink Your Bleach\n\n# Amid COVID-19 Concerns, Texas Panhandle Poison Center Warns: Don’t Drink Your Bleach\n\nExposure to Cleaning Products is a Leading Cause of Poisoning\n\n By Ronica Farrar\n March 18, 2020\n\nPoison Help 1-800-222-1222There is a lot of confusing, incomplete, and just plain inaccurate information circulating about how to prevent the COVID-19 virus (“coronavirus”) from spreading. Some "
+        }
+      ],
+      "langsmith_url": null
+    },
+    {
+      "role": "user",
+      "content": "Donald Trump is alive"
+    },
+    {
+      "role": "assistant",
+      "verdict": "REAL",
+      "confidence": "HIGH",
+      "full_response": "VERDICT: REAL\n\nEXPLANATION:\n- The claim \"Donald Trump is alive\" is supported by multiple sources, including recent news articles, official biographies, and government websites.\n- Sources such as Wikipedia, The White House, CNN, PBS, Euronews, Simple English Wikipedia, and Ballotpedia confirm that Donald Trump is alive and has served as the 45th and 47th President of the United States.\n- The provided sources, including news articles and official websites, do not indicate any reports of his death, and Trump's own statements and public appearances suggest that he is indeed alive.\n- The evidence also includes a press conference where Trump responded to questions about viral death rumors, confirming that he was fine and unaware of the speculation.\n- Additionally, official White House sources, such as the Trump Library and the White House website, confirm that Trump is alive and has begun his second term as President.\n\nCONFIDENCE: HIGH\n\nSOURCES USED:\n- Wikipedia (https://en.wikipedia.org/wiki/Donald_Trump)\n- The White House (https://www.whitehouse.gov/)\n- CNN (https://www.cnn.com/)\n- PBS (https://www.pbs.org/)\n- Euronews (https://www.euronews.com/)\n- Simple English Wikipedia (https://simple.wikipedia.org/wiki/Donald_Trump)\n- Ballotpedia (https://ballotpedia.org/Donald_Trump)\n- Trump confirms he's not dead amid social media speculation (https://www.youtube.com/shorts/LqkfqdEOPb4)\n- Donald Trump Reacts to Viral Death Rumors on Live TV - People.com (https://people.com/donald-trump-responds-health-speculation-death-rumors-11801702)\n- President Donald J. Trump (http://www.trumplibrary.gov/trumps/president-donald-j-trump)\n- President Donald Trump asked about viral online rumor that he was ... (https://www.youtube.com/watch?v=dHhOBBuPGqE)\n- Live News - The White House (https://www.whitehouse.gov/live/)",
+      "sources": [
+        {
+          "title": "Trump confirms he's not dead amid social media speculation",
+          "url": "https://www.youtube.com/shorts/LqkfqdEOPb4",
+          "content": "President Donald Trump responded to questions today during a press conference, confirming he was fine amid social media speculation over the"
+        },
+        {
+          "title": "Donald Trump Reacts to Viral Death Rumors on Live TV - People.com",
+          "url": "https://people.com/donald-trump-responds-health-speculation-death-rumors-11801702",
+          "content": "President Donald Trump has offered his first in-person comments about the viral rumors that his health is failing.\n\nDuring a press conference on Tuesday, Sept. 2, Trump, 79, was asked by a reporter whether he was aware that many social media users thought he died last week.\n\n\"No,\" he replied. \"Really? I didn't see that.\"\n\nThe president went on to say that he knew people were questioning whether he was ill because he sees \"reports,\" but claimed he didn't know about the now-debunked conspiracy the"
+        },
+        {
+          "title": "President Donald J. Trump",
+          "url": "http://www.trumplibrary.gov/trumps/president-donald-j-trump",
+          "content": "President Trump won his second re-election campaign against Vice President Kamala Harris in November 2024, making him the only president aside from Grover Cleveland to be elected to serve two non-consecutive terms. President Trump began his second term in the White House on January 20, 2025. He is joined by Ohio Senator JD Vance as Vice President.\n\n The Trumps\n  + President Donald J. Trump\n  + First Lady Melania Trump\n Research\n  + Archived Social Media\n  + Archived Websites\n  + Frequently Asked"
+        },
+        {
+          "title": "President Donald Trump asked about viral online rumor that he was ...",
+          "url": "https://www.youtube.com/watch?v=dHhOBBuPGqE",
+          "content": "something completely different but about a big viral social media trend over the weekend. How did you find out over the weekend that you were dead? >> You see that? >> No. >> People didn't see you for a couple days. 1.3 million user engagements as of Saturday morning about your demise. >> Really? >> I didn't see that. >> You know, I I have heard it's sort of crazy, but last week I did numerous news conferences, all successful. They went very well. Like this is going very well. And then I didn't "
+        },
+        {
+          "title": "Live News - The White House",
+          "url": "https://www.whitehouse.gov/live/",
+          "content": "Featured\n\nFeatured\n\nImage 1The Great Healthcare PlanImage 2365 Days of WinsImage 3About President TrumpImage 4About Vice President VanceImage 5365 Days of WinsImage 6Read the LatestImage 7The Great Healthcare PlanImage 8INVESTMENT ANNOUNCEMENTSImage 9First Year in OfficeImage 102025 Stanley Cup ChampionsImage 11America's FoundingImage 12East Wing ExpansionImage 13View Full VideoImage 14Contact The White House\n\n   X\n   Instagram\n   TikTok\n   Share Icon\n   Share Icon\n   Facebook\n   YouTube\n\nLive N"
+        }
+      ],
+      "langsmith_url": null
+    },
+    {
+      "role": "user",
+      "content": "Please fact-check the claim shown in this image.  📎 *news1.jpeg*"
+    },
+    {
+      "role": "assistant",
+      "verdict": "FAKE",
+      "confidence": "HIGH",
+      "full_response": "VERDICT: FAKE\n\nEXPLANATION:\nThe evidence gathered from various sources confirms that there is no verified evidence of Israeli PM Netanyahu and Mossad chief David Barnea being killed in a missile attack. The claims are unverified and likely misinformation. The sources include:\n\n- A Facebook post by Mohammad Noordin stating that the claim is unverified and likely misinformation.\n- A Facebook post by Iran International Broadcast stating that the reports are unconfirmed.\n- A Facebook post by Comr Bashir Kwama stating that the claim is unverified.\n- A fact-check article by The Sunday Guardian stating that there is no evidence to support the claim.\n- A Facebook post by South Africa Vibes questioning the authenticity of the claim.\n\nThese sources collectively indicate that the claim is unfounded and lacks credible evidence to support it. The presence of unverified and conflicting information further supports the conclusion that the claim is fake.\n\nCONFIDENCE: HIGH\n\nSOURCES USED:\n- Mohammad Noordin's Facebook post (https://www.facebook.com/noordinkds/posts/just-in-indian-raw-spies-claims-israel-pm-netanyahu-and-head-of-mossad-david-bar/26295793313379510/)\n- Iran International Broadcast's Facebook post (https://www.facebook.com/groups/933718825458465/posts/1262170762613268/)\n- Comr Bashir Kwama's Facebook post (https://www.facebook.com/B.M.kwama/posts/just-in-indian-raw-spies-claims-israel-pm-netanyahu-and-head-of-mossad-david-bar/10237001452369017/)\n- The Sunday Guardian's fact-check article (https://sundayguardianlive.com/world/fact-check-did-iran-target-mossad-chief-david-barnea-along-with-iddo-netanyahu-itamar-ben-gvir-viral-post-sparks-speculation-175305/)\n- South Africa Vibes's Facebook post (https://www.facebook.com/61555361222634/posts/shocking-claims-rock-global-security-viral-images-claim-israel-intelligence-chie/122308929794178707/)",
+      "sources": [
+        {
+          "title": "JUST IN Indian RAW spies claims, Israel PM Netanyahu ...",
+          "url": "https://www.facebook.com/noordinkds/posts/just-in-indian-raw-spies-claims-israel-pm-netanyahu-and-head-of-mossad-david-bar/26295793313379510/",
+          "content": "## Mohammad Noordin's Post\n\n### Mohammad Noordin\n\n3d  ·\n\nJUST IN 🇮🇷❌🇮🇱🔥 Indian RAW spies claims, Israel PM Netanyahu and Head of Mossad David Barnea were reportedly k!lled by a ballistic missiles during a meeting in Tel Aviv.\n\n\\_\\_\\_\\_\\_\\_\n\nBERITA TERBARU 🇮🇷❌🇮🇱🔥 Mata-mata RAW India mengklaim, PM Israel Netanyahu dan Kepala Mossad David Barnea dilaporkan tewas akibat rudal balistik saat pertemuan di Tel Aviv. [...] '%3E%3Cpath d='M15.9953 7.9996c0 4.418-3.5816 7.9996-7.9996 7.9996S-.004 12.4176-."
+        },
+        {
+          "title": "ISRAELI PRIME MINISTER BENJAMIN NETANYAHU AND ...",
+          "url": "https://www.facebook.com/groups/933718825458465/posts/1262170762613268/",
+          "content": "Iran International Broadcast | ISRAELI PRIME MINISTER BENJAMIN NETANYAHU AND MOSSAD CHIEF DAVID BARNEA MIGHT BE DEAD, ACCORDING UNCONFIRMED REPORTS. | Facebook\n\nLog In\n\nLog In\n\nForgot Account?\n\n[](\n\nIran International Broadcast\n\nAl Hussein Sharif\n\n · 4d · \n\nISRAELI PRIME MINISTER BENJAMIN NETANYAHU AND MOSSAD CHIEF DAVID BARNEA MIGHT BE DEAD, ACCORDING UNCONFIRMED REPORTS.\n\nJUST IN 🔥🔥🔥 Indian RAW spies claims, Israel PM Netanyahu and Head of Mossad David Barnea were reportedly k!lled by a ballis"
+        },
+        {
+          "title": "JUST IN Indian RAW spies claims, Israel PM Netanyahu and Head ...",
+          "url": "https://www.facebook.com/B.M.kwama/posts/just-in-indian-raw-spies-claims-israel-pm-netanyahu-and-head-of-mossad-david-bar/10237001452369017/",
+          "content": "JUST IN 🔥🔥🔥 Indian RAW spies claims, Israel PM Netanyahu and Head of Mossad David Barnea were reportedly k!lled by a ballistic missiles during a meeting in Tel Aviv. Thank you Iran | Comr Bashir Kwama | Facebook\n\nLog In\n\nLog In\n\nForgot Account?\n\nVideo =====\n\nHome\n\nLive\n\nReels\n\nExplore\n\nMore\n\nHome\n\nLive\n\nReels\n\nExplore\n\nImage 1\n\n0:00 / 0:00\n\nJUST IN 🔥🔥🔥 Indian RAW spies claims, Israel PM Netanyahu and Head of Mossad David Barnea were reportedly k!lled by a ballistic missiles during a meeting in T"
+        },
+        {
+          "title": "Fact Check: Did Iran Target Mossad Chief David Barnea Along With ...",
+          "url": "https://sundayguardianlive.com/world/fact-check-did-iran-target-mossad-chief-david-barnea-along-with-iddo-netanyahu-itamar-ben-gvir-viral-post-sparks-speculation-175305/",
+          "content": "The Sunday Guardian\nThe Sunday Guardian\nThe Sunday Guardian\n\nCopyright 2025 - All Right Reserved.   \nSunday Guardian Live\n\n# Fact Check: Did Iran Target Mossad Chief David Barnea Along With Iddo Netanyahu & Itamar Ben-Gvir? Viral Post Sparks Speculation\n\n## Fact check on viral claims that Mossad chief David Barnea was targeted by Iran along with Iddo Netanyahu and Itamar Ben-Gvir. Here’s what reports and officials actually say.\n\nBy: Neerja Mishra  \nLast Updated: March 10, 2026 15:00:25 IST\n\nMidd"
+        },
+        {
+          "title": "Viral Images Claim Israel Intelligence Chief David Barnea Has Been ...",
+          "url": "https://www.facebook.com/61555361222634/posts/shocking-claims-rock-global-security-viral-images-claim-israel-intelligence-chie/122308929794178707/",
+          "content": "💬 What do you think — is this a real breaking development or another example of misinformation spreading online during conflict?\n\nMay be an image of text that says 'DEVELOPING STORY HEAD OF MOSSAD REPORTEDLY KILLED N MISSILE STRIKE?' [...] ## South Africa Vibes's Post\n\n### South Africa Vibes\n\n4d  ·\n\nSHOCKING CLAIMS ROCK GLOBAL SECURITY: Viral Images Claim Israel 🇮🇱 Intelligence Chief David Barnea Has Been Killed in a Missile Strike — But Is This Real or Dangerous War-Time Misinformation?\n\nReport"
+        }
+      ],
+      "langsmith_url": null
+    },
+    {
+      "role": "user",
+      "content": "Please fact-check the claim shown in this image.  📎 *saudi gazzete.pdf*"
+    },
+    {
+      "role": "assistant",
+      "type": "multi_claim",
+      "claims": [
+        {
+          "claim": "Contributions via Ehsan facilitate provision of over one million iftar meals daily at Two Holy Mosques.",
+          "verdict": "REAL",
+          "confidence": "HIGH",
+          "full_response": "VERDICT: REAL\n\nEXPLANATION:\n- The claim states that the National Platform for Charitable Work (Ehsan) has facilitated the provision of over one million iftar meals daily at the Two Holy Mosques.\n- Multiple sources from reputable websites such as msn.com, saudigazette.com.sa, alriyadhdaily.com, and arabnews.com confirm the claim, providing consistent information about Ehsan's role in providing iftar meals.\n- The evidence includes articles from Saudi Gazette, which explicitly state that Ehsan has facilitated the provision of over one million iftar meals daily at the Two Holy Mosques.\n- The articles also provide details about the initiative, including the fact that it allows donors to contribute to providing iftar meals for pilgrims and worshipers at the Two Holy Mosques.\n- The evidence is consistent and comes from multiple sources, which increases the confidence in the verdict.\n\nCONFIDENCE: HIGH\n\nSOURCES USED:\n- msn.com: Contributions via Ehsan facilitate provision of over one million iftar meals daily at Two Holy Mosques (https://www.msn.com/en-ae/news/featured/contributions-via-ehsan-facilitate-provision-of-over-one-million-iftar-meals-daily-at-two-holy-mosques/ar-AA1YCwLh)\n- saudigazette.com.sa: Contributions via Ehsan facilitate provision of over one million iftar meals daily at Two Holy Mosques (https://saudigazette.com.sa/article/659750)\n- alriyadhdaily.com: Ehsan Platform Provides Iftar Meals to Pilgrims at Two Holy Mosques (https://www.alriyadhdaily.com/article/593e80fe13d94051b77029fd04213e5e)\n- facebook.com: Generous contributions, through the National Platform for Charitable Work (Ehsan), have been instrumental in the provision of more than one million iftar meals daily for the Umrah pilgrims and worshipers at the Grand Mosque in Makkah and the Prophet’s Mosque in Madinah. (https://www.facebook.com/SaudiGazette/posts/generous-contributions-through-the-national-platform-for-charitable-work-ehsan-h/1261190339521706/)",
+          "sources": [
+            {
+              "title": "Generous contributions, through the National Platform for Charitable ...",
+              "url": "https://www.facebook.com/SaudiGazette/posts/generous-contributions-through-the-national-platform-for-charitable-work-ehsan-h/1261190339521706/",
+              "content": "## Saudi Gazette's Post\n\n### Saudi Gazette\n\n8h  ·\n\nGenerous contributions, through the National Platform for Charitable Work (Ehsan), have been instrumental in the provision of more than one million iftar meals daily for the Umrah pilgrims and worshipers at the Grand Mosque in Makkah and the Prophet’s Mosque in Madinah.\n\nContributions via Ehsan facilitate provision of over one million iftar meals daily at Two Holy Mosques\n\nsaudigazette.com.sa\n\nContributions via Ehsan facilitate provision of over"
+            },
+            {
+              "title": "Contributions via Ehsan facilitate provision of over one million iftar ...",
+              "url": "https://saudigazette.com.sa/article/659750",
+              "content": "Logo\nnewspaper\nEmail\nDark Mode\nBurger Menu\nSaudi Gazette\nDark Mode\nSearch\nSaudi Gazette\n×\nYoutube\nFacebook\nInstagram\nTwitter\nLinkedin\nNewspaper\nEmail\nSearch\n\nSearch\n\nGenerous contributions, through the National Platform for Charitable Work (Ehsan), have been instrumental in the provision of more than one million iftar meals daily for the Umrah pilgrims and worshipers at the Grand Mosque in Makkah and the Prophet’s Mosque in Madinah.\n\nincrease-icon\n\nRIYADH — Generous contributions, through the Na"
+            },
+            {
+              "title": "Contributions via Ehsan facilitate provision of over one million iftar ...",
+              "url": "https://www.msn.com/en-ae/news/featured/contributions-via-ehsan-facilitate-provision-of-over-one-million-iftar-meals-daily-at-two-holy-mosques/ar-AA1YCwLh",
+              "content": "This initiative allows donors to contribute to providing iftar meals for pilgrims and worshipers at the Two Holy Mosques. Since the beginning of"
+            },
+            {
+              "title": "Ehsan Platform Provides Iftar Meals to Pilgrims at Two Holy ...",
+              "url": "https://www.alriyadhdaily.com/article/593e80fe13d94051b77029fd04213e5e",
+              "content": "The Ehsan platform, in cooperation with the General Authority for the Care of the Affairs of the Grand Mosque and the Prophet's Mosque, announced the availability of donation opportunities for the “Iftar Meals” project at the Grand Mosque in Makkah and the Prophet’s Mosque in Madinah, aiming to maximize charitable impact and facilitate contributions through official, secure channels.  \n The project enables community members to contribute to providing Iftar meals for pilgrims and worshippers at t"
+            },
+            {
+              "title": "than 2.9 million iftar meals were distributed at the Prophet's ...",
+              "url": "https://www.facebook.com/AbtIslamNet/posts/more-than-29-million-iftar-meals-were-distributed-at-the-prophets-mosque-in-madi/1356279516530264/",
+              "content": "7a.767.767 0 0 0-.7669.767v3.2598a.767.767 0 0 0 .767.767h.767a.3835.3835 0 0 0 .3835-.3835V7.3835A.3835.3835 0 0 0 5.134 7h-.767Z' fill='%23fff'/%3E%3Cdefs%3E%3CradialGradient id='paint1_radial_15251_63610' cx='0' cy='0' r='1' gradientUnits='userSpaceOnUse' gradientTransform='rotate(90 .0005 8) scale(7.99958)'%3E%3Cstop offset='.5618' stop-color='%230866FF' stop-opacity='0'/%3E%3Cstop offset='1' stop-color='%230866FF' stop-opacity='.1'/%3E%3C/radialGradient%3E%3CradialGradient id='paint2_radial"
+            }
+          ],
+          "error": null
+        },
+        {
+          "claim": "The Ministry of Tourism is continuing intensive inspection campaigns targeting hospitality facilities and tourism service providers in Makkah and Madinah during the last ten days of Ramadan.",
+          "verdict": "REAL",
+          "confidence": "HIGH",
+          "full_response": "VERDICT: REAL\n\nEXPLANATION:\n- The claim states that the Ministry of Tourism is conducting intensive inspection campaigns in Makkah and Madinah during the last ten days of Ramadan.\n- The evidence gathered from various sources, including travelandtourworld.com, saudigazette.com.sa, and spa.gov.sa, confirms that the Ministry of Tourism has indeed launched intensive inspection campaigns in Makkah and Madinah during Ramadan, specifically targeting hospitality facilities and tourism service providers.\n- The sources also provide details about the purpose of these inspections, which is to ensure compliance with regulatory requirements and enhance the quality of services provided to pilgrims.\n- The evidence from saudigazette.com.sa and spa.gov.sa also mentions that operating a hospitality activity without a valid license constitutes a regulatory violation punishable by fines of up to SR1 million, closure of the establishment, or both.\n- The consistency of the evidence from multiple sources, including news articles and official government websites, supports the claim and confirms its validity.\n\nCONFIDENCE: HIGH\n\nSOURCES USED:\n- Saudi Arabia Intensifies Inspections In Makkah, Madinah During ... (https://www.bernama.com/en/news.php/?id=2534384)\n- Tourism Ministry Intensifies Inspections in Makkah, Madinah in the ... (https://spa.gov.sa/en/N2536232)\n- Tourism Ministry intensifies inspections in Makkah and Madinah ... (https://saudigazette.com.sa/article/659742)\n- Saudi Arabia Intensifies Tourism Oversight in Makkah and Madinah ... (https://www.travelandtourworld.com/news/article/saudi-arabia-intensifies-tourism-oversight-in-makkah-and-madinah-to-guarantee-premium-service-standards-for-ramadan-pilgrims/)\n- The Ministry of Tourism is continuing intensive inspection ... (https://www.facebook.com/SaudiGazette/posts/the-ministry-of-tourism-is-continuing-intensive-inspection-campaigns-targeting-h/1260741646233242/)",
+          "sources": [
+            {
+              "title": "Saudi Arabia Intensifies Inspections In Makkah, Madinah During ...",
+              "url": "https://www.bernama.com/en/news.php/?id=2534384",
+              "content": "BERNAMA\nBERNAMA\nBERNAMA\n\n# Saudi Arabia Intensifies Inspections In Makkah, Madinah During Last Ten Days Of Ramadan\n\nMAKKAH, March 14 (Bernama-SPA) -- Saudi Arabia’s Ministry of Tourism is continuing intensive inspection campaigns targeting hospitality facilities and tourism service providers in Makkah and Madinah during the last ten days of Ramadan.\n\nThe Saudi Press Agency (SPA) reported that the efforts are part of its ongoing campaign to ensure compliance with regulatory requirements and enhan"
+            },
+            {
+              "title": "Tourism Ministry Intensifies Inspections in Makkah, Madinah in the ...",
+              "url": "https://spa.gov.sa/en/N2536232",
+              "content": "Makkah, March 14, 2026, SPA -- The Ministry of Tourism is continuing intensive inspection campaigns targeting hospitality facilities and tourism service providers in Makkah and Madinah during the last ten days of Ramadan. The efforts are part of its ongoing campaign to ensure compliance with regulatory requirements and enhance the quality of services provided to pilgrims.  \n Field teams are conducting inspection and awareness tours covering hospitality facilities, private accommodation establish"
+            },
+            {
+              "title": "Tourism Ministry intensifies inspections in Makkah and Madinah ...",
+              "url": "https://saudigazette.com.sa/article/659742",
+              "content": "Logo\nnewspaper\nEmail\nDark Mode\nBurger Menu\nSaudi Gazette\nDark Mode\nSearch\nSaudi Gazette\n×\nYoutube\nFacebook\nInstagram\nTwitter\nLinkedin\nNewspaper\nEmail\nSearch\n\nSearch\n\nThe ministry stressed that operating a hospitality activity without a valid license constitutes a regulatory violation punishable by fines of up to SR1 million, closure of the establishment, or both.\n\nincrease-icon\n\nRIYADH — The Ministry of Tourism is continuing intensive inspection campaigns targeting hospitality facilities and tou"
+            },
+            {
+              "title": "Saudi Arabia Intensifies Tourism Oversight in Makkah and Madinah ...",
+              "url": "https://www.travelandtourworld.com/news/article/saudi-arabia-intensifies-tourism-oversight-in-makkah-and-madinah-to-guarantee-premium-service-standards-for-ramadan-pilgrims/",
+              "content": "The Saudi Arabia Ministry of Tourism has initiated a comprehensive series of intensive inspection campaigns directed at hospitality facilities and various tourism service providers within the holy cities of Makkah and Madinah. These measures are being implemented with particular focus during the final ten days of Ramadan, a period characterized by a significant influx of pilgrims from around the globe. It is understood that the primary objective behind these operations is the verification of adh"
+            },
+            {
+              "title": "The Ministry of Tourism is continuing intensive inspection ...",
+              "url": "https://www.facebook.com/SaudiGazette/posts/the-ministry-of-tourism-is-continuing-intensive-inspection-campaigns-targeting-h/1260741646233242/",
+              "content": "Saudi Gazette - The Ministry of Tourism is continuing...\n\nLog In\n\nSaudi Gazette's Post\n\n[](\n\n### Saudi Gazette\n\n23h · \n\nThe Ministry of Tourism is continuing intensive inspection campaigns targeting hospitality facilities and tourism service providers in Makkah and Madinah during the last ten days of Ramadan.\n\nImage 1: Tourism Ministry intensifies inspections in Makkah and Madinah during last days of Ramadan\n\nsaudigazette.com.sa Tourism Ministry intensifies inspections in Makkah and Madinah duri"
+            }
+          ],
+          "error": null
+        },
+        {
+          "claim": "Several rudimentary Afghan drones were intercepted in three locations across Pakistan, leaving at least four people injured, including two children.",
+          "verdict": "REAL",
+          "confidence": "HIGH",
+          "full_response": "VERDICT: REAL\n\nEXPLANATION:\n- The evidence gathered from multiple sources consistently reports that several rudimentary Afghan drones were intercepted in three locations across Pakistan, resulting in injuries to at least four people, including two children, from debris.\n- The sources, including news articles from reputable outlets such as Dawn, The Friday Times, and Times of India, confirm that the drones were brought down using electronic countermeasures and other interception techniques before reaching their intended targets.\n- The sources also report that the drones were intended to target civilians and instill fear, but were intercepted and destroyed by the Pakistani military.\n- The consistency of the reports across multiple sources, including internet search results and Google grounding, further supports the claim.\n\nCONFIDENCE: HIGH\n\nSOURCES USED:\n- https://www.anews.com.tr/world/2026/03/14/pakistan-says-several-afghan-drones-intercepted-injuring-4/amp\n- https://www.trtworld.com/article/c75081306f15\n- https://www.rediff.com/news/report/drone-debris-injures-4-in-pakistan/20260314.htm\n- https://timesofindia.indiatimes.com/world/pakistan/pakistan-downs-taliban-drones-near-islamabad-debris-injures-four-including-two-children/articleshow/129570984.cms\n- https://www.firstpost.com/world/at-least-4-including-2-children-wounded-in-afghanistans-drone-attack-on-pakistan-13989463.html\n- https://www.dawn.com/news/1981957\n- https://www.thefridaytimes.com/14-Mar-2026/rudimentary-afghan-taliban-drones-intercepted-four-injured-debris\n- https://www.brecorder.com/news/40411588\n- https://english.mathrubhumi.com/amp/news/world/taliban-drone-debris-injures-civilians-pakistan-w6btgnsi",
+          "sources": [
+            {
+              "title": "At least 4, including 2 children wounded in Afghanistan's drone ...",
+              "url": "https://www.firstpost.com/world/at-least-4-including-2-children-wounded-in-afghanistans-drone-attack-on-pakistan-13989463.html",
+              "content": "At least four people, including two children, were injured in\nPakistan after Afghanistan launched drones towards the country. Pakistan’s Inter-Services Public Relations (ISPR) confirmed the news on Saturday, describing the drones as “rudimentary”. The attack came at a time when tensions between the two neighbouring states had been reignited.\n\nOn Friday evening, Pakistani security sources said two drones were intercepted at different locations adjacent to Rawalpindi, Dawn reported. Pakistan claim"
+            },
+            {
+              "title": "'Rudimentary' drones launched by Afghan Taliban injure 4, failed to ...",
+              "url": "https://www.dawn.com/news/1981957",
+              "content": "On Friday evening, security sources said that two rudimentary drones were intercepted at different locations adjacent to Rawalpindi but were successfully brought down through electronic countermeasures.\n\nThe military’s media wing said today that the drones were intercepted through “soft and hard kills” and did not reach their intended targets.\n\nAccording to the ISPR, two children were injured in Quetta, a civilian was injured in Kohat and another in Rawalpindi.\n\n“These attacks were aimed at indu"
+            },
+            {
+              "title": "Rudimentary Afghan Taliban Drones Intercepted; Four Injured in ...",
+              "url": "https://www.thefridaytimes.com/14-Mar-2026/rudimentary-afghan-taliban-drones-intercepted-four-injured-debris",
+              "content": "The drones, launched on Friday evening near Rawalpindi, were brought down before reaching their intended targets through a combination of electronic countermeasures and other interception techniques, the military’s media wing confirmed. Two children were injured in Quetta, while one civilian sustained injuries in Kohat and Rawalpindi due to debris from the drones.\n\n“These attacks were aimed at inducing fear in the public and reminding us of the terrorist mindset which drives the Afghan Taliban,”"
+            },
+            {
+              "title": "Few 'rudimentary drones' launched by Afghan Taliban intercepted",
+              "url": "https://www.brecorder.com/news/40411588",
+              "content": "However, falling debris from the intercepted drones resulted in injuries to four civilians, including two children in Quetta and one civilian each in Kohat and Rawalpindi.\n\nThe Inter-Services Public Relations (ISPR) said this in a statement today regarding a cross-border provocation on Friday.\n\n“These attacks were aimed at inducing fear in the public and remind us of the terrorist mindset which drives the Afghan Taliban. On one hand, the Afghan Taliban project victimhood to garner global sympath"
+            },
+            {
+              "title": "Two children among four injured after Taliban drone debris falls in ...",
+              "url": "https://english.mathrubhumi.com/amp/news/world/taliban-drone-debris-injures-civilians-pakistan-w6btgnsi",
+              "content": "According to Pakistan’s military media wing, the Inter-Services Public Relations (ISPR), the drones were intercepted and destroyed before reaching their intended targets on Friday. However, fragments from the destroyed devices fell in populated areas, causing injuries in multiple locations.\n\nThe drones were brought down in Quetta, Kohat and Rawalpindi, a city located near the capital Islamabad. The military said the devices were neutralised using a combination of “soft and hard kills”, referring"
+            }
+          ],
+          "error": null
+        },
+        {
+          "claim": "US President Donald Trump said that all military targets on Iran's strategic Kharg Island had been destroyed following a major US bombing raid.",
+          "verdict": "REAL",
+          "confidence": "HIGH",
+          "full_response": "VERDICT: REAL\n\nEXPLANATION:\n- The claim that US President Donald Trump said that all military targets on Iran's strategic Kharg Island had been destroyed following a major US bombing raid is supported by multiple reputable sources, including news articles from Iran International, ABC News, RFE/RL, Fox Baltimore, Al Jazeera, and BBC.\n- The sources provide quotes from President Trump stating that the US Central Command executed a major bombing raid on Iran's Kharg Island, destroying all military targets while sparing the oil infrastructure.\n- The sources also report on the US President's warning that the US Navy would soon begin escorting vessels through the Strait of Hormuz and that he would reconsider his decision not to target the oil infrastructure if Iran interfered with shipping in the Strait.\n- The Iranian government's denial of damage to its oil facilities is not sufficient to refute the claim, as the sources provide direct quotes from President Trump and reports from multiple news outlets.\n\nCONFIDENCE: HIGH\n\nSOURCES USED:\n- Iran International: Trump says US bombing raid destroyed military targets on Kharg Island (https://www.iranintl.com/en/202603137666)\n- RFE/RL: Trump Says US Blasts Kharg Island, Vows Navy Escorts 'Will ... (https://www.rferl.org/a/iran-israel-trump-hormuz-marines-war/33705605.html)\n- Fox Baltimore: US military 'totally obliterated' key military targets in Iran during ... (https://foxbaltimore.com/news/nation-world/us-military-totally-obliterated-key-military-targets-in-iran-during-bombing-raid-trump-middle-east-airstrikes-nuclear-weapons-war-conflict-israel-united-states-central-command-pentagon-department-of-war-secretary-pete-hegseth)\n- Al Jazeera: US attacks military sites on Iran's Kharg island, home to vast oil facility (https://www.aljazeera.com/news/2026/3/14/us-attacks-military-sites-on-irans-kharg-island-home-to-vast-oil-facility)\n- BBC: Why has the US targeted Iran's Kharg Island? (https://www.bbc.com/news/articles/c8jxzlwvd8ro)",
+          "sources": [
+            {
+              "title": "Trump says US bombing raid destroyed military targets on Kharg ...",
+              "url": "https://www.iranintl.com/en/202603137666",
+              "content": "volant media logo\nBrand\n\n# Trump says US bombing raid destroyed military targets on Kharg Island\n\nUS President Donald Trump waves as he boards Air Force One for travel to Florida, at Joint Base Andrews, Maryland, US, March 13, 2026\n\nPresident Donald Trump said on Friday US Central Command carried out a major bombing raid on Iran’s Kharg Island, adding American forces destroyed all military targets on the island while deliberately avoiding oil infrastructure. [...] \"Moments ago, at my direction, "
+            },
+            {
+              "title": "Trump Says US Blasts Kharg Island, Vows Navy Escorts 'Will ...",
+              "url": "https://www.rferl.org/a/iran-israel-trump-hormuz-marines-war/33705605.html",
+              "content": "US President Donald Trump said American forces have \"totally obliterated\" military sites on Iran's strategic Kharg Island in \"one of the most powerful bombing raids\" in Middle East history and he said the US Navy would soon begin escorting vessels through the Strait of Hormuz.\n\n\"Moments ago, at my direction, the United States Central Command executed one of the most powerful bombing raids in the History of the Middle East, and totally obliterated every MILITARY target in Iran’s crown jewel, Khar"
+            },
+            {
+              "title": "US military 'totally obliterated' key military targets in Iran during ...",
+              "url": "https://foxbaltimore.com/news/nation-world/us-military-totally-obliterated-key-military-targets-in-iran-during-bombing-raid-trump-middle-east-airstrikes-nuclear-weapons-war-conflict-israel-united-states-central-command-pentagon-department-of-war-secretary-pete-hegseth",
+              "content": "> \"Moments ago, at my direction, the United States Central Command executed one of the most powerful bombing raids in the History of the Middle East, and totally obliterated every military target in Iran’s crown jewel, Kharg Island,\" Trump wrote on Truth Social.\n\nTrump said U.S. Central Command executed the strike at his direction and that all military targets on the island were destroyed. Kharg Island, located in the Persian Gulf, is a strategic location for Iran and plays a key role in the cou"
+            },
+            {
+              "title": "US attacks military sites on Iran's Kharg island, home to vast oil facility",
+              "url": "https://www.aljazeera.com/news/2026/3/14/us-attacks-military-sites-on-irans-kharg-island-home-to-vast-oil-facility",
+              "content": "Trump said on Friday US forces had “totally obliterated” all military targets on Iran’s Kharg Island oil export hub, describing it in a social media post as “one of the most powerful bombing raids in the History of the Middle East.” He provided no evidence of that.\n\nThe US president said he had chosen not to “wipe out” oil infrastructure on the Iranian island, for now.\n\n“However, should Iran, or anyone else, do anything to interfere with the Free and Safe Passage of Ships through the Strait of H"
+            },
+            {
+              "title": "Why has the US targeted Iran's Kharg Island? - BBC",
+              "url": "https://www.bbc.com/news/articles/c8jxzlwvd8ro",
+              "content": "## What has the US and Iran said about the attack?\n\nOn Friday, Trump said the US Central Command had \"executed one of the most powerful bombing raids in the History of the Middle East and totally obliterated every MILITARY target in Iran's crown jewel, Kharg Island\".\n\nHe added that, \"for reasons of decency\", he had \"chosen NOT to wipe out the Oil Infrastructure on the Island\".\n\nIranian state media reported that no damage was done to the island's oil facilities. The Fars news agency said US attac"
+            }
+          ],
+          "error": null
+        },
+        {
+          "claim": "The United States Central Command carried out one of the most powerful bombing operations in the region's history.",
+          "verdict": "REAL",
+          "confidence": "HIGH",
+          "full_response": "VERDICT: REAL\n\nEXPLANATION:\n- The evidence gathered from multiple reputable sources, including news articles from Iran International, ABC News, AOL News, Xinhua, and other online news outlets, consistently reports that the United States Central Command carried out a bombing raid on Kharg Island, destroying all military targets while avoiding oil infrastructure.\n- The sources provide specific details about the operation, including the number of targets struck (over 90) and the fact that the strike was a \"large-scale precision strike\".\n- The evidence from various sources, including Trump's statement on Truth Social and reports from CENTCOM, confirms that the US military carried out a bombing raid on Kharg Island, targeting Iranian military targets while sparing oil infrastructure.\n- The consistency of these reports across multiple sources, including quotes from President Trump and statements from the US Central Command (CENTCOM), suggests that the claim is true.\n\nCONFIDENCE: HIGH\n\nSOURCES USED:\n- \"Trump says U.S. Central Command carried out “one of the most ... \" (https://www.wjhg.com/2026/03/13/trump-says-us-central-command-carried-out-one-most-powerful-middle-east-bombing-raids-truth-social-post/)\n- \"US military 'totally obliterated' key military targets in Iran during ... \" (https://abcnews4.com/news/nation-world/us-military-totally-obliterated-key-military-targets-in-iran-during-bombing-raid-trump-middle-east-airstrikes-nuclear-weapons-war-conflict-israel-united-states-central-command-pentagon-department-of-war-secretary-pete-hegseth)\n- \"US military 'totally obliterated' key military targets in Iran during ... \" (https://mynews4.com/news/nation-world/us-military-totally-obliterated-key-military-targets-in-iran-during-bombing-raid-trump-middle-east-airstrikes-nuclear-weapons-war-conflict-israel-united-states-central-command-pentagon-department-of-war-secretary-pete-hegseth)\n- \"Donald Trump: US Conducts \"One of Most Powerful\" Strikes in ... \" (https://www.kurdistan24.net/en/story/900342/donald-trump-us-conducts-one-of-most-powerful-strikes-in-middle-east-history-on-iranian-island)\n- \"WATCH: US military executes 'large-scale precision strike' on Kharg ... \" (https://abc7amarillo.com/news/nation-world/watch-us-military-executes-large-scale-precision-strike-on-kharg-island-in-iran-united-states-military-forces-troops-central-command-centcom-war-conflict-mine-storage-facilities-storage-bunkers-oil-infrastructure-gas-president-donald-trump-truth-social)",
+          "sources": [
+            {
+              "title": "Trump says U.S. Central Command carried out “one of the most ...",
+              "url": "https://www.wjhg.com/2026/03/13/trump-says-us-central-command-carried-out-one-most-powerful-middle-east-bombing-raids-truth-social-post/",
+              "content": "_Moments ago, at my direction, the United States Central Command executed one of the most powerful bombing raids in the History of the Middle East, and totally obliterated every MILITARY target in Iran’s crown jewel, Kharg Island. Our Weapons are the most powerful and sophisticated that the World has ever known but, for reasons of decency, I have chosen NOT to wipe out the Oil Infrastructure on the Island. However, should Iran, or anyone else, do anything to interfere with the Free and Safe Pass"
+            },
+            {
+              "title": "US military 'totally obliterated' key military targets in Iran during ...",
+              "url": "https://abcnews4.com/news/nation-world/us-military-totally-obliterated-key-military-targets-in-iran-during-bombing-raid-trump-middle-east-airstrikes-nuclear-weapons-war-conflict-israel-united-states-central-command-pentagon-department-of-war-secretary-pete-hegseth",
+              "content": "> \"Moments ago, at my direction, the United States Central Command executed one of the most powerful bombing raids in the History of the Middle East, and totally obliterated every military target in Iran’s crown jewel, Kharg Island,\" Trump wrote on Truth Social.\n\nTrump said U.S. Central Command executed the strike at his direction and that all military targets on the island were destroyed. Kharg Island, located in the Persian Gulf, is a strategic location for Iran and plays a key role in the cou"
+            },
+            {
+              "title": "US military 'totally obliterated' key military targets in Iran during ...",
+              "url": "https://mynews4.com/news/nation-world/us-military-totally-obliterated-key-military-targets-in-iran-during-bombing-raid-trump-middle-east-airstrikes-nuclear-weapons-war-conflict-israel-united-states-central-command-pentagon-department-of-war-secretary-pete-hegseth",
+              "content": "> \"Moments ago, at my direction, the United States Central Command executed one of the most powerful bombing raids in the History of the Middle East, and totally obliterated every military target in Iran’s crown jewel, Kharg Island,\" Trump wrote on Truth Social.\n\nTrump said U.S. Central Command executed the strike at his direction and that all military targets on the island were destroyed. Kharg Island, located in the Persian Gulf, is a strategic location for Iran and plays a key role in the cou"
+            },
+            {
+              "title": "Donald Trump: US Conducts \"One of Most Powerful\" Strikes in ...",
+              "url": "https://www.kurdistan24.net/en/story/900342/donald-trump-us-conducts-one-of-most-powerful-strikes-in-middle-east-history-on-iranian-island",
+              "content": "“Moments ago, at my direction, the United States Central Command executed one of the most powerful bombing raids in the History of the Middle East, and totally obliterated every MILITARY target in Iran’s crown jewel, Kharg Island,” Trump said.\n\nHe added that US weapons were capable of causing far greater destruction but that oil infrastructure on the island was intentionally spared.\n\n“Our Weapons are the most powerful and sophisticated that the World has ever known but, for reasons of decency, I"
+            },
+            {
+              "title": "WATCH: US military executes 'large-scale precision strike' on Kharg ...",
+              "url": "https://abc7amarillo.com/news/nation-world/watch-us-military-executes-large-scale-precision-strike-on-kharg-island-in-iran-united-states-military-forces-troops-central-command-centcom-war-conflict-mine-storage-facilities-storage-bunkers-oil-infrastructure-gas-president-donald-trump-truth-social",
+              "content": "Kharg Island is a critical economic lifeline for Iran, handling roughly 90% of the country’s crude oil exports, making it both strategically and economically significant.\n\nOfficials said the operation was designed to weaken Iran’s military presence on the island while minimizing broader economic disruption in global oil markets.\n\nTrump took to Truth Social on Friday night to describe it as one of the \"most powerful\" airstrikes in the region's history.\n\n> \"Moments ago, at my direction, the United"
+            }
+          ],
+          "error": null
+        }
+      ]
+    }
+  ]
+}

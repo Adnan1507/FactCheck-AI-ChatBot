@@ -1,0 +1,31 @@
+# ── Core Framework ──────────────────────────────────────────────────────────
+streamlit>=1.40.0
+langchain>=0.3.0
+langchain-core>=0.3.0
+langchain-community>=0.3.0
+langgraph>=0.2.0
+
+# ── LLM Providers ───────────────────────────────────────────────────────────
+langchain-groq>=0.2.0
+langchain-google-genai>=2.0.0
+google-generativeai>=0.8.0
+
+# ── Tracing & Monitoring ─────────────────────────────────────────────────────
+langsmith>=0.2.0
+
+# ── Vector Database & Embeddings ────────────────────────────────────────────
+faiss-cpu>=1.7.4
+langchain-huggingface>=0.1.0
+sentence-transformers>=3.0.0
+
+# ── Internet Search ──────────────────────────────────────────────────────────
+tavily-python>=0.3.0
+
+# ── Document Processing (OCR + PDF) ─────────────────────────────────────────
+easyocr>=1.7.0
+PyMuPDF>=1.23.0
+Pillow>=10.0.0
+
+# ── Utilities ────────────────────────────────────────────────────────────────
+python-dotenv>=1.0.0
+numpy>=1.24.0
